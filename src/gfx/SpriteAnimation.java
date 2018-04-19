@@ -1,0 +1,7 @@
+package gfx;
+
+public enum SpriteAnimation {
+    PLAYER_RUNNING_LEFT, PLAYER_RUNNING_RIGHT, PLAYER_CLIMBING, PLAYER_DEATH,
+    BARREL_ROLLING,
+    DK_WIN, DK_CLIMBING
+}
